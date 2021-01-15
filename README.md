@@ -8,7 +8,7 @@ To run , execute `Signal.py` in EduPython.
 
 ## Code
 
-Librery used
+- Librery used
 ```Python
 from lycee import *
 from matplotlib import pyplot
