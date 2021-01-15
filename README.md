@@ -8,12 +8,12 @@ To run , execute `Signal.py` in EduPython.
 
 ## Code
 
-- Librery used
+### Librery used :
 ```Python
 from lycee import *
 from matplotlib import pyplot
 ```
-- Signal characteristic
+### Signal characteristic :
 ```Python
 tmax=0.05 #durée du signal (absice)
 T=0.02 #période
@@ -21,17 +21,12 @@ T=0.02 #période
 #φ=pi/2 #phase à l'origine
 Umax=20/pi #amplitude
 ````
+### number of point :
 ```Python
 n=500 #nombre d'intervalles
-
+```
+### Square signal generate with one harmony :
+```Python
 t=[k*tmax/n for k in range(n+1)] #liste des n+1 valeurs de t [0,n] (axe des abscisses)
-
-# la fondamental
-# U=[Umax*(sin(ω*t)) for t in t]
-
-# Pour rajouté un harmony "+sin(h*ω*t)/h"
 U=[Umax*(sin(ω*t)+sin(3*ω*t)/3) for t in t] #calcul des n+1 valeurs de U
-
-repere.plot(t,U)
-pyplot.show()
 ```
