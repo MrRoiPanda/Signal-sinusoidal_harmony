@@ -21,7 +21,7 @@ T=0.02 #période
 #φ=pi/2 #phase à l'origine
 Umax=20/pi #amplitude
 ````
-### number of point :
+### Number of points :
 ```Python
 n=500 #nombre d'intervalles
 ```
