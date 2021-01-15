@@ -1,4 +1,4 @@
-# Signal-sinusoidal_harmony
+# Vew_Signal
 
 >Created with [EduPython 3.0](https://edupython.tuxfamily.org/)
 
