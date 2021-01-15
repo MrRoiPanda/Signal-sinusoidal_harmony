@@ -1,4 +1,4 @@
-# Vew Signal
+# View signal
 
 >Created with [EduPython 3.0](https://edupython.tuxfamily.org/)
 
