@@ -1,6 +1,6 @@
 # Signal-sinusoidal_harmony
 
->I creat this projet with [EduPython 3.0](https://edupython.tuxfamily.org/)
+>Creat with [EduPython 3.0](https://edupython.tuxfamily.org/)
 
 ## Usage
 
