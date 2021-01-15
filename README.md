@@ -13,8 +13,7 @@ To run , execute `Signal.py` in EduPython.
 from lycee import *
 from matplotlib import pyplot
 ```
-
-
+- Signal charcteristique
 ```Python
 tmax=0.05 #durée du signal (absice)
 T=0.02 #période
