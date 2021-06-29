@@ -4,7 +4,7 @@
 
 ## Usage
 
-To run , execute `Signal.py` in EduPython.
+To run , execute `Signal.py`
 
 ## Code
 
